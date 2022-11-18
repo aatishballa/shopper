@@ -1,7 +1,12 @@
-# vue3-ts-shopper
+# Shopper
 
-This template should help get you started developing with Vue 3 in Vite.
+Starter template to help you quickly get started developing in:
 
+1. Vue 3, 
+1. Pinia,
+1. Vue Router,
+1. Vuetify and
+1. Vite
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).

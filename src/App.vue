@@ -6,9 +6,9 @@ import { RouterLink, RouterView } from "vue-router"
   <v-app>
     <header>
       <div class="wrapper">
-        <nav>
-          <router-link to="/" datatype="" about="">Home</router-link>
-          <router-link to="/about">About</router-link>
+        <nav class="d-flex justify-end">
+          <router-link to="/" class="mx-2">Home</router-link>
+          <router-link to="/about" class="mx-2">About</router-link>
         </nav>
       </div>
     </header>
